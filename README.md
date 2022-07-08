@@ -1,4 +1,6 @@
-### Oie, eu sou o Fabricio :) 👋
+### Oie, eu sou o Fabricio :) 
+Sou apaixonado por resolver problemas de diversas áreas utilizando programação e tecnologia, independente de qual seja a área. 
+
 <div align="center">
   <a href="https://github.com/Fabricio2530">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabricio2530&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
