@@ -1,5 +1,5 @@
 ### Oie, eu sou o Fabricio :) 
-Sou apaixonado por resolver problemas de diversas áreas utilizando programação e tecnologia, independente de qual seja a área. 
+Sou apaixonado por resolver problemas de diversas áreas utilizando programação e tecnologia, independente de qual seja a área. Além dos projetos que estão aqui no github você pode dar uma olhada no canal do YouTube (pelo ícone abaixo) em que estão os projetos realizados.
 
 <div align="center">
   <a href="https://github.com/Fabricio2530">
