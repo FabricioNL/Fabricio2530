@@ -2,7 +2,7 @@
 Sou apaixonado por resolver problemas de diversas áreas utilizando programação e tecnologia, independente de qual seja a área. Além dos projetos que estão aqui no github você pode dar uma olhada no canal do YouTube (pelo ícone abaixo) em que estão os projetos realizados.
 
 <div align="center">
-  <a href="https://github.com/Fabricio2530">
+  <a href="https://github.com/FabricioNL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabricio2530&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio2530&layout=compact&langs_count=7&theme=dracula"/>
 </div>
