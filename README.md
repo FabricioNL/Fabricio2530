@@ -1,19 +1,6 @@
 ### Oie, eu sou o Fabricio :) 
 Sou apaixonado por resolver problemas de diversas áreas utilizando programação e tecnologia, independente de qual seja a área. Além dos projetos que estão aqui no github você pode dar uma olhada no canal do YouTube (pelo ícone abaixo) em que estão os projetos realizados.
 
-<div align="center">
-  <a href="https://github.com/FabricioNL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioNL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioNL&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Fabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fabs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Fabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Fabs-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Fabs-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="Fabs-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-</div>
 
   ##
   
